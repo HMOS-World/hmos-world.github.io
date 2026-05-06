@@ -2,12 +2,16 @@
   "applinking": {
     "apps": [
       {
-        "appIdentifier": "6917603561143767675",
+        "appIdentifier": "6917570019123797324",
         "index": 1
       },
       {
-        "appIdentifier": "6917603446810553708",
+        "appIdentifier": "6917603561143767675",
         "index": 2
+      },
+      {
+        "appIdentifier": "6917603446810553708",
+        "index": 3
       }
     ]
   }
