@@ -2,8 +2,7 @@
 
 ## HMOS Gesture Demo
 
-这是一个鸿蒙代码工坊客户端的Applinking(手势交互‘一抓一放’)演示项目的网址域名服务，部署在 GitHub Pages 上，展示了基于`Applinking` 技术实现的鸿蒙风格手势交互效果。
-详情参考[APP LINKING](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/app-linking-startupapp)
+本项目为GitHub Pages搭建的线上域名服务，聚焦于鸿蒙代码工坊客户端「一抓一放」手势交互示例，展示了基于`Applinking` 技术实现的鸿蒙风格手势交互效果。可直观参考集成于鸿蒙代码工坊客户端的sample[抓一抓](https://gitcode.com/HarmonyOS_Samples/GesturesShare)以及 [APP LINKING](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/app-linking-startupapp)。
 
 ## 项目结构
 
